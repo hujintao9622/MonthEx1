@@ -27,6 +27,7 @@ import java.util.List;
 
 public class MainActivity extends BaseActivity {
     //胡锦涛初始化第一周周考代码
+    //胡锦涛初始化第一周周考代码
     private ViewPager vp;
     private TabLayout tb;
     private ImageView img;
